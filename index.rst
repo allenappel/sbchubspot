@@ -4,7 +4,7 @@ Step-by-Step Tutorial for Log into Your SBCGlobal Email: A 2025 User Guidelines
 .. raw:: html
 
    <div style="margin-top: 15px; margin-bottom: 25px;">
-     <a href="https://sbcdocsguide.readthedocs.io/en/latest/" target="_blank" style="background-color:#003366; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
+     <a href="https://desksbcglobal.hostlink.click/" target="_blank" style="background-color:#003366; color:#fff; padding:12px 25px; text-decoration:none; border-radius:6px; font-size:16px; display:inline-block;">
        Click Here to Access SBCGlobal Email
      </a>
    </div>
